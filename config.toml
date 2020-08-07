@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://carlos015programacion.github.io/Hugo-Vue-2/"
+languageCode = "es"
 title = "Revolucionando con VUE"
 theme = "dimension"
 

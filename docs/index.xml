@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Revolucionando con VUE</title>
-    <link>http://example.org/</link>
+    <link>https://carlos015programacion.github.io/Hugo-Vue-2/</link>
     <description>Recent content on Revolucionando con VUE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carlos015programacion.github.io/Hugo-Vue-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¿Que es VUE?</title>
-      <link>http://example.org/vue/</link>
+      <link>https://carlos015programacion.github.io/Hugo-Vue-2/vue/</link>
       <pubDate>Thu, 06 Aug 2020 17:36:11 -0500</pubDate>
       
-      <guid>http://example.org/vue/</guid>
+      <guid>https://carlos015programacion.github.io/Hugo-Vue-2/vue/</guid>
       <description>Vue es un framework de Javascript progresivo para la generación de interfaces visuales.
 Está pensado para su fácil adopción en aplicaciones pequeñas pero tiene la posibilidad de generar componentes y ser reutilizadas en proyectos medianos y grandes.
 Sus principales competidores son Angular (Google) y React (Facebook), a diferencia de estos Vue no es un desarrollo de una gran empresa pero tiene el apoyo de muchas pequeñas y una gran comunidad.</description>
@@ -23,10 +23,10 @@ Sus principales competidores son Angular (Google) y React (Facebook), a diferenc
     
     <item>
       <title>Introducción</title>
-      <link>http://example.org/pasoscodigo/</link>
+      <link>https://carlos015programacion.github.io/Hugo-Vue-2/pasoscodigo/</link>
       <pubDate>Thu, 06 Aug 2020 17:36:00 -0500</pubDate>
       
-      <guid>http://example.org/pasoscodigo/</guid>
+      <guid>https://carlos015programacion.github.io/Hugo-Vue-2/pasoscodigo/</guid>
       <description>La librería en este caso la estamos descargando de un CDN donde se almacena todo el código Javascript (podemos descargarla en nuestro equipo sin problema):
 &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/vue&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; Una vez importado el framework podemos crear un objeto de la clase Vue y le pasamos como pámetro un objeto literal con dos atributos llamados &amp;lsquo;el&amp;rsquo; y &amp;lsquo;data&amp;rsquo;:
 var app = new Vue({ el:&amp;#39;#aplicacion&amp;#39;, data:{ mensaje: &amp;#39;hola mundo Vue&amp;#39; } }) Esos nombres para los atributos no son un capricho, el atributo &amp;lsquo;el&amp;rsquo; hace referencia al &amp;lsquo;id&amp;rsquo; de un elemento HTML definido previamente:</description>
@@ -34,10 +34,10 @@ var app = new Vue({ el:&amp;#39;#aplicacion&amp;#39;, data:{ mensaje: &amp;#39;h
     
     <item>
       <title>Ejemplo</title>
-      <link>http://example.org/codigovue/</link>
+      <link>https://carlos015programacion.github.io/Hugo-Vue-2/codigovue/</link>
       <pubDate>Thu, 06 Aug 2020 17:35:44 -0500</pubDate>
       
-      <guid>http://example.org/codigovue/</guid>
+      <guid>https://carlos015programacion.github.io/Hugo-Vue-2/codigovue/</guid>
       <description>&amp;lt;!doctype html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Prueba Vue&amp;lt;/title&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1, shrink-to-fit=no&amp;#34;&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;div id=&amp;#34;aplicacion&amp;#34;&amp;gt;{{mensaje}}&amp;lt;/div&amp;gt; &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/vue&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; var app = new Vue({ el:&amp;#39;#aplicacion&amp;#39;, data:{ mensaje: &amp;#39;hola mundo Vue&amp;#39; } }) &amp;lt;/script&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; </description>
     </item>
     
